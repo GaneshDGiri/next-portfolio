@@ -24,32 +24,5 @@ A modern and responsive portfolio website to showcase my projects, skills, and e
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [Git](https://git-scm.com/)
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/huzaifahmedz/portfolio-website.git
-   ```
-
-2. Navigate into the project directory:
-
-   ```bash
-   cd portfolio-website
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
 
 
-
-![Demo](images/Screenshot_1.png)
