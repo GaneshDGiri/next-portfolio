@@ -7,6 +7,7 @@ export const config = {
     },
     social: {
         github: "GaneshDGiri",
+        GitHub: "https://github.com/GaneshDGiri",
         discord: "#"
     },
     NAV_ITEMS: [
