@@ -36,7 +36,7 @@ const SectionTitle = () => (
                     asChild
                 >
                     <a
-                        href={config.social.Github}
+                        href={config.social.GitHub}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="font-medium"
